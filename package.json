@@ -1,0 +1,11 @@
+{
+  "name": "bluebird-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "ioredis": "^2.2.0",
+  }
+}
